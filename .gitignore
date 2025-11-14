@@ -1,0 +1,7 @@
+echo "__pycache__/
+.vscode/
+*.db
+models/
+.env
+frontend/node_modules/
+frontend/build/" > .gitignore
